@@ -44,7 +44,7 @@ a:active{
 article {
     font-size: 1.2em;
     family: 'Times New Roman', Times, serif;
-    padding:10px;
+    margin:5px;
 }
 
 .biggest {
