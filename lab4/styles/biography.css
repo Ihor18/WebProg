@@ -42,9 +42,9 @@ a:active{
     background: green;
 }
 article {
+    margin: 5px;
     font-size: 1.2em;
     family: 'Times New Roman', Times, serif;
-    margin:5px;
 }
 
 .biggest {
