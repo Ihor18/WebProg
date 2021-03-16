@@ -1,0 +1,95 @@
+
+body{
+    font-family: 'Roboto',Arial,"Times New Roman", sans-serif;
+}
+h1#header {
+    text-align: center;
+    font-size: 22px;
+}
+
+.cours {
+    font-style: italic;
+}
+
+h3 {
+    text-align: center;
+}
+@media (max-width:576px) {
+    .col-1{
+        flex:auto;
+        width: 100%;
+    }
+}
+
+section a {
+    text-decoration: none;
+    border: 2px solid midnightblue;
+    width: 200px;
+    background-color: blue;
+    color: black;
+    margin-bottom: 2px;
+    text-align: center;
+    display: block;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 4px;
+
+
+}
+
+section a:hover {
+    color: darkturquoise;
+    background-color: magenta;
+}
+
+section a:active {
+    color: deeppink;
+    background-color: yellow;
+}
+
+
+article {
+    margin:  5px 0 5px 0;
+    font-size: 1.2em;
+    family: 'Times New Roman', Times, serif;
+}
+
+.biggest {
+    font-size: 1.2em;
+}
+
+#basic-inf {
+    border: 1px solid;
+    color: black;
+    background: darkturquoise;
+}
+
+#childhood {
+    border: 1px solid;
+    color: gray;
+    background: pink;
+}
+
+#school {
+    border: 1px solid;
+    color: coral;
+    background: lime;
+}
+
+#after-school {
+    border: 1px solid;
+    color: brown;
+    background: yellow;
+}
+
+#university {
+    border: 1px solid;
+    color: red;
+    background: orange;
+}
+
+article > a  {
+    font-weight: bold;
+}
+body > a {
+    text-transform: uppercase;
+}
