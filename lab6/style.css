@@ -1,0 +1,23 @@
+.my-block{
+    background-color: lightgreen;
+    margin: 10px 3.5% 0px 3.5%;
+}
+
+a{
+    color: red;
+}
+#header{
+    margin: 15px 0 15px 0;
+}
+
+@media (min-width:767px) and (max-width: 991.98px) {
+.my-block{
+    margin: 0 0 10px 0;
+}
+    .col-md-5:nth-child(2){
+    margin-left: 4%;
+}
+    .col-md-5{
+        width: 48%;
+    }
+}
