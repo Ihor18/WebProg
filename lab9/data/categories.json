@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "name": "Adidas",
+    "short_name": "",
+    "img": "Adidas.png"
+  },
+  {
+    "id": 2,
+    "name": "Nike",
+    "short_name": "",
+    "img": "Nike.png"
+  },
+  {
+    "id": 3,
+    "name": "Reebok",
+    "short_name": "",
+    "img": "Reebok.png"
+  },
+  {
+    "id": 4,
+    "name": "Puma",
+    "short_name": "",
+    "img": "Puma.png"
+  },{
+  "id": 5,
+  "name": "Specials",
+  "short_name": "",
+  "img": "specials.png"
+}
+]
