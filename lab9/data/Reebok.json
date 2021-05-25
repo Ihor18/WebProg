@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Preseason",
+    "category": "Reebok",
+    "size": "35-44",
+    "price": "70$",
+    "img": "PRESEASON.jpg"
+  },
+  {
+    "name": "CLUB",
+    "category": "Reebok",
+    "size": "36-42",
+    "price": "85$",
+    "img": "CLUB.jpg"
+  },
+  {
+    "name": "ROYAL TURBO",
+    "category": "Reebok",
+    "size": "37-45",
+    "price": "123$",
+    "img": "Royal_Turbo.jpeg"
+  },
+  {
+    "name": "Kinetica",
+    "category": "Reebok",
+    "size": "35-44",
+    "price": "153$",
+    "img": "Kinetika.jpg"
+  }
+ ]
